@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,2023,20,Race
+NOR,Lando Norris,McLaren,2.0,6.0,19.0,Finished,2023,20,Race
+ALO,Fernando Alonso,Aston Martin,3.0,4.0,15.0,Finished,2023,20,Race
+PER,Sergio Perez,Red Bull Racing,4.0,9.0,12.0,Finished,2023,20,Race
+STR,Lance Stroll,Aston Martin,5.0,3.0,10.0,Finished,2023,20,Race
+SAI,Carlos Sainz,Ferrari,6.0,7.0,8.0,Finished,2023,20,Race
+GAS,Pierre Gasly,Alpine,7.0,15.0,6.0,Finished,2023,20,Race
+HAM,Lewis Hamilton,Mercedes,8.0,5.0,4.0,Finished,2023,20,Race
+TSU,Yuki Tsunoda,AlphaTauri,9.0,16.0,2.0,Finished,2023,20,Race
+OCO,Esteban Ocon,Alpine,10.0,14.0,1.0,Lapped,2023,20,Race
+SAR,Logan Sargeant,Williams,11.0,19.0,0.0,Lapped,2023,20,Race
+HUL,Nico Hulkenberg,Haas F1 Team,12.0,11.0,0.0,Lapped,2023,20,Race
+RIC,Daniel Ricciardo,AlphaTauri,13.0,17.0,0.0,Lapped,2023,20,Race
+PIA,Oscar Piastri,McLaren,14.0,10.0,0.0,Lapped,2023,20,Race
+RUS,George Russell,Mercedes,15.0,8.0,0.0,Retired,2023,20,Race
+BOT,Valtteri Bottas,Alfa Romeo,16.0,18.0,0.0,Retired,2023,20,Race
+ZHO,Guanyu Zhou,Alfa Romeo,17.0,20.0,0.0,Retired,2023,20,Race
+MAG,Kevin Magnussen,Haas F1 Team,18.0,12.0,0.0,Retired,2023,20,Race
+ALB,Alexander Albon,Williams,19.0,13.0,0.0,Retired,2023,20,Race
+LEC,Charles Leclerc,Ferrari,20.0,2.0,0.0,Did not start,2023,20,Race

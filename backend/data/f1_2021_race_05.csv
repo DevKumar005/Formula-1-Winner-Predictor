@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,2.0,25.0,Finished,2021,5,Race
+SAI,Carlos Sainz,Ferrari,2.0,4.0,18.0,Finished,2021,5,Race
+NOR,Lando Norris,McLaren,3.0,5.0,15.0,Finished,2021,5,Race
+PER,Sergio Perez,Red Bull Racing,4.0,9.0,12.0,Finished,2021,5,Race
+VET,Sebastian Vettel,Aston Martin,5.0,8.0,10.0,Finished,2021,5,Race
+GAS,Pierre Gasly,AlphaTauri,6.0,6.0,8.0,Finished,2021,5,Race
+HAM,Lewis Hamilton,Mercedes,7.0,7.0,7.0,Finished,2021,5,Race
+STR,Lance Stroll,Aston Martin,8.0,13.0,4.0,+1 Lap,2021,5,Race
+OCO,Esteban Ocon,Alpine,9.0,11.0,2.0,+1 Lap,2021,5,Race
+GIO,Antonio Giovinazzi,Alfa Romeo Racing,10.0,10.0,1.0,+1 Lap,2021,5,Race
+RAI,Kimi Räikkönen,Alfa Romeo Racing,11.0,14.0,0.0,+1 Lap,2021,5,Race
+RIC,Daniel Ricciardo,McLaren,12.0,12.0,0.0,+1 Lap,2021,5,Race
+ALO,Fernando Alonso,Alpine,13.0,17.0,0.0,+1 Lap,2021,5,Race
+RUS,George Russell,Williams,14.0,15.0,0.0,+1 Lap,2021,5,Race
+LAT,Nicholas Latifi,Williams,15.0,18.0,0.0,+1 Lap,2021,5,Race
+TSU,Yuki Tsunoda,AlphaTauri,16.0,16.0,0.0,+1 Lap,2021,5,Race
+MAZ,Nikita Mazepin,Haas F1 Team,17.0,19.0,0.0,+3 Laps,2021,5,Race
+MSC,Mick Schumacher,Haas F1 Team,18.0,20.0,0.0,+3 Laps,2021,5,Race
+BOT,Valtteri Bottas,Mercedes,19.0,3.0,0.0,Wheel nut,2021,5,Race
+LEC,Charles Leclerc,Ferrari,20.0,1.0,0.0,Driveshaft,2021,5,Race

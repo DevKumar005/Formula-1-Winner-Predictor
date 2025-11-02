@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+NOR,Lando Norris,McLaren,1.0,1.0,25.0,Finished,2025,20,Race
+LEC,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,2025,20,Race
+VER,Max Verstappen,Red Bull Racing,3.0,5.0,15.0,Finished,2025,20,Race
+BEA,Oliver Bearman,Haas F1 Team,4.0,9.0,12.0,Finished,2025,20,Race
+PIA,Oscar Piastri,McLaren,5.0,7.0,10.0,Finished,2025,20,Race
+ANT,Kimi Antonelli,Mercedes,6.0,6.0,8.0,Finished,2025,20,Race
+RUS,George Russell,Mercedes,7.0,4.0,6.0,Finished,2025,20,Race
+HAM,Lewis Hamilton,Ferrari,8.0,3.0,4.0,Finished,2025,20,Race
+OCO,Esteban Ocon,Haas F1 Team,9.0,11.0,2.0,Finished,2025,20,Race
+BOR,Gabriel Bortoleto,Kick Sauber,10.0,16.0,1.0,Finished,2025,20,Race
+TSU,Yuki Tsunoda,Red Bull Racing,11.0,10.0,0.0,Finished,2025,20,Race
+ALB,Alexander Albon,Williams,12.0,17.0,0.0,Lapped,2025,20,Race
+HAD,Isack Hadjar,Racing Bulls,13.0,8.0,0.0,Lapped,2025,20,Race
+STR,Lance Stroll,Aston Martin,14.0,19.0,0.0,Lapped,2025,20,Race
+GAS,Pierre Gasly,Alpine,15.0,18.0,0.0,Lapped,2025,20,Race
+COL,Franco Colapinto,Alpine,16.0,20.0,0.0,Lapped,2025,20,Race
+SAI,Carlos Sainz,Williams,17.0,12.0,0.0,Retired,2025,20,Race
+ALO,Fernando Alonso,Aston Martin,18.0,14.0,0.0,Retired,2025,20,Race
+HUL,Nico Hulkenberg,Kick Sauber,19.0,13.0,0.0,Retired,2025,20,Race
+LAW,Liam Lawson,Racing Bulls,20.0,15.0,0.0,Retired,2025,20,Race

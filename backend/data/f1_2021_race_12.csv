@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,1.0,12.5,Finished,2021,12,Race
+RUS,George Russell,Williams,2.0,2.0,9.0,Finished,2021,12,Race
+HAM,Lewis Hamilton,Mercedes,3.0,3.0,7.5,Finished,2021,12,Race
+RIC,Daniel Ricciardo,McLaren,4.0,4.0,6.0,Finished,2021,12,Race
+VET,Sebastian Vettel,Aston Martin,5.0,5.0,5.0,Finished,2021,12,Race
+GAS,Pierre Gasly,AlphaTauri,6.0,6.0,4.0,Finished,2021,12,Race
+OCO,Esteban Ocon,Alpine,7.0,8.0,3.0,Finished,2021,12,Race
+LEC,Charles Leclerc,Ferrari,8.0,9.0,2.0,Finished,2021,12,Race
+LAT,Nicholas Latifi,Williams,9.0,10.0,1.0,Finished,2021,12,Race
+SAI,Carlos Sainz,Ferrari,10.0,11.0,0.5,Finished,2021,12,Race
+ALO,Fernando Alonso,Alpine,11.0,12.0,0.0,Finished,2021,12,Race
+BOT,Valtteri Bottas,Mercedes,12.0,13.0,0.0,Finished,2021,12,Race
+GIO,Antonio Giovinazzi,Alfa Romeo Racing,13.0,14.0,0.0,Finished,2021,12,Race
+NOR,Lando Norris,McLaren,14.0,15.0,0.0,Finished,2021,12,Race
+TSU,Yuki Tsunoda,AlphaTauri,15.0,16.0,0.0,Finished,2021,12,Race
+MSC,Mick Schumacher,Haas F1 Team,16.0,17.0,0.0,Finished,2021,12,Race
+MAZ,Nikita Mazepin,Haas F1 Team,17.0,18.0,0.0,Finished,2021,12,Race
+RAI,Kimi Räikkönen,Alfa Romeo Racing,18.0,0.0,0.0,Finished,2021,12,Race
+PER,Sergio Perez,Red Bull Racing,19.0,0.0,0.0,Finished,2021,12,Race
+STR,Lance Stroll,Aston Martin,20.0,19.0,0.0,Finished,2021,12,Race

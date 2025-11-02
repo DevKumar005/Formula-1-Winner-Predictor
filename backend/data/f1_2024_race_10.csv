@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,2.0,25.0,Finished,2024,10,Race
+NOR,Lando Norris,McLaren,2.0,1.0,19.0,Finished,2024,10,Race
+HAM,Lewis Hamilton,Mercedes,3.0,3.0,15.0,Finished,2024,10,Race
+RUS,George Russell,Mercedes,4.0,4.0,12.0,Finished,2024,10,Race
+LEC,Charles Leclerc,Ferrari,5.0,5.0,10.0,Finished,2024,10,Race
+SAI,Carlos Sainz,Ferrari,6.0,6.0,8.0,Finished,2024,10,Race
+PIA,Oscar Piastri,McLaren,7.0,9.0,6.0,Finished,2024,10,Race
+PER,Sergio Perez,Red Bull Racing,8.0,11.0,4.0,Finished,2024,10,Race
+GAS,Pierre Gasly,Alpine,9.0,7.0,2.0,Finished,2024,10,Race
+OCO,Esteban Ocon,Alpine,10.0,8.0,1.0,Finished,2024,10,Race
+HUL,Nico Hulkenberg,Haas F1 Team,11.0,13.0,0.0,Finished,2024,10,Race
+ALO,Fernando Alonso,Aston Martin,12.0,10.0,0.0,Lapped,2024,10,Race
+ZHO,Guanyu Zhou,Kick Sauber,13.0,15.0,0.0,Lapped,2024,10,Race
+STR,Lance Stroll,Aston Martin,14.0,14.0,0.0,Lapped,2024,10,Race
+RIC,Daniel Ricciardo,RB,15.0,18.0,0.0,Lapped,2024,10,Race
+BOT,Valtteri Bottas,Kick Sauber,16.0,12.0,0.0,Lapped,2024,10,Race
+MAG,Kevin Magnussen,Haas F1 Team,17.0,16.0,0.0,Lapped,2024,10,Race
+ALB,Alexander Albon,Williams,18.0,20.0,0.0,Lapped,2024,10,Race
+TSU,Yuki Tsunoda,RB,19.0,17.0,0.0,Lapped,2024,10,Race
+SAR,Logan Sargeant,Williams,20.0,19.0,0.0,Lapped,2024,10,Race

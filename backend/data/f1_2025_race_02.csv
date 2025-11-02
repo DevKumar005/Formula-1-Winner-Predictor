@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+PIA,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,2025,2,Race
+NOR,Lando Norris,McLaren,2.0,3.0,18.0,Finished,2025,2,Race
+RUS,George Russell,Mercedes,3.0,2.0,15.0,Finished,2025,2,Race
+VER,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,2025,2,Race
+OCO,Esteban Ocon,Haas F1 Team,5.0,11.0,10.0,Finished,2025,2,Race
+ANT,Kimi Antonelli,Mercedes,6.0,8.0,8.0,Finished,2025,2,Race
+ALB,Alexander Albon,Williams,7.0,10.0,6.0,Finished,2025,2,Race
+BEA,Oliver Bearman,Haas F1 Team,8.0,17.0,4.0,Finished,2025,2,Race
+STR,Lance Stroll,Aston Martin,9.0,14.0,2.0,Finished,2025,2,Race
+SAI,Carlos Sainz,Williams,10.0,15.0,1.0,Finished,2025,2,Race
+HAD,Isack Hadjar,Racing Bulls,11.0,7.0,0.0,Finished,2025,2,Race
+LAW,Liam Lawson,Red Bull Racing,12.0,20.0,0.0,Finished,2025,2,Race
+DOO,Jack Doohan,Alpine,13.0,18.0,0.0,Finished,2025,2,Race
+BOR,Gabriel Bortoleto,Kick Sauber,14.0,19.0,0.0,Lapped,2025,2,Race
+HUL,Nico Hulkenberg,Kick Sauber,15.0,12.0,0.0,Lapped,2025,2,Race
+TSU,Yuki Tsunoda,Racing Bulls,16.0,9.0,0.0,Lapped,2025,2,Race
+ALO,Fernando Alonso,Aston Martin,17.0,13.0,0.0,Retired,2025,2,Race
+LEC,Charles Leclerc,Ferrari,18.0,6.0,0.0,Disqualified,2025,2,Race
+HAM,Lewis Hamilton,Ferrari,19.0,5.0,0.0,Disqualified,2025,2,Race
+GAS,Pierre Gasly,Alpine,20.0,16.0,0.0,Disqualified,2025,2,Race

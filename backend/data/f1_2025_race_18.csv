@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+RUS,George Russell,Mercedes,1.0,1.0,25.0,Finished,2025,18,Race
+VER,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,2025,18,Race
+NOR,Lando Norris,McLaren,3.0,5.0,15.0,Finished,2025,18,Race
+PIA,Oscar Piastri,McLaren,4.0,3.0,12.0,Finished,2025,18,Race
+ANT,Kimi Antonelli,Mercedes,5.0,4.0,10.0,Finished,2025,18,Race
+LEC,Charles Leclerc,Ferrari,6.0,7.0,8.0,Finished,2025,18,Race
+ALO,Fernando Alonso,Aston Martin,7.0,10.0,6.0,Finished,2025,18,Race
+HAM,Lewis Hamilton,Ferrari,8.0,6.0,4.0,Finished,2025,18,Race
+BEA,Oliver Bearman,Haas F1 Team,9.0,9.0,2.0,Finished,2025,18,Race
+SAI,Carlos Sainz,Williams,10.0,18.0,1.0,Lapped,2025,18,Race
+HAD,Isack Hadjar,Racing Bulls,11.0,8.0,0.0,Lapped,2025,18,Race
+TSU,Yuki Tsunoda,Red Bull Racing,12.0,13.0,0.0,Lapped,2025,18,Race
+STR,Lance Stroll,Aston Martin,13.0,15.0,0.0,Lapped,2025,18,Race
+ALB,Alexander Albon,Williams,14.0,20.0,0.0,Lapped,2025,18,Race
+LAW,Liam Lawson,Racing Bulls,15.0,12.0,0.0,Lapped,2025,18,Race
+COL,Franco Colapinto,Alpine,16.0,16.0,0.0,Lapped,2025,18,Race
+BOR,Gabriel Bortoleto,Kick Sauber,17.0,14.0,0.0,Lapped,2025,18,Race
+OCO,Esteban Ocon,Haas F1 Team,18.0,17.0,0.0,Lapped,2025,18,Race
+GAS,Pierre Gasly,Alpine,19.0,19.0,0.0,Lapped,2025,18,Race
+HUL,Nico Hulkenberg,Kick Sauber,20.0,11.0,0.0,Lapped,2025,18,Race

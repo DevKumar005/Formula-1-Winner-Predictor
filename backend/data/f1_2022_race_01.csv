@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+LEC,Charles Leclerc,Ferrari,1.0,1.0,26.0,Finished,2022,1,Race
+SAI,Carlos Sainz,Ferrari,2.0,3.0,18.0,Finished,2022,1,Race
+HAM,Lewis Hamilton,Mercedes,3.0,5.0,15.0,Finished,2022,1,Race
+RUS,George Russell,Mercedes,4.0,9.0,12.0,Finished,2022,1,Race
+MAG,Kevin Magnussen,Haas F1 Team,5.0,7.0,10.0,Finished,2022,1,Race
+BOT,Valtteri Bottas,Alfa Romeo,6.0,6.0,8.0,Finished,2022,1,Race
+OCO,Esteban Ocon,Alpine,7.0,11.0,6.0,Finished,2022,1,Race
+TSU,Yuki Tsunoda,AlphaTauri,8.0,16.0,4.0,Finished,2022,1,Race
+ALO,Fernando Alonso,Alpine,9.0,8.0,2.0,Finished,2022,1,Race
+ZHO,Guanyu Zhou,Alfa Romeo,10.0,15.0,1.0,Finished,2022,1,Race
+MSC,Mick Schumacher,Haas F1 Team,11.0,12.0,0.0,Finished,2022,1,Race
+STR,Lance Stroll,Aston Martin,12.0,19.0,0.0,Finished,2022,1,Race
+ALB,Alexander Albon,Williams,13.0,14.0,0.0,Finished,2022,1,Race
+RIC,Daniel Ricciardo,McLaren,14.0,18.0,0.0,Finished,2022,1,Race
+NOR,Lando Norris,McLaren,15.0,13.0,0.0,Finished,2022,1,Race
+LAT,Nicholas Latifi,Williams,16.0,20.0,0.0,Finished,2022,1,Race
+HUL,Nico Hulkenberg,Aston Martin,17.0,17.0,0.0,Finished,2022,1,Race
+PER,Sergio Perez,Red Bull Racing,18.0,4.0,0.0,Fuel pressure,2022,1,Race
+VER,Max Verstappen,Red Bull Racing,19.0,2.0,0.0,Fuel pressure,2022,1,Race
+GAS,Pierre Gasly,AlphaTauri,20.0,10.0,0.0,Power Unit,2022,1,Race

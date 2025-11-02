@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+HAM,Lewis Hamilton,Mercedes,1.0,1.0,25.0,Finished,2020,7,Race
+BOT,Valtteri Bottas,Mercedes,2.0,2.0,18.0,Finished,2020,7,Race
+VER,Max Verstappen,Red Bull Racing,3.0,3.0,15.0,Finished,2020,7,Race
+RIC,Daniel Ricciardo,Renault,4.0,4.0,13.0,Finished,2020,7,Race
+OCO,Esteban Ocon,Renault,5.0,6.0,10.0,Finished,2020,7,Race
+ALB,Alexander Albon,Red Bull Racing,6.0,5.0,8.0,Finished,2020,7,Race
+NOR,Lando Norris,McLaren,7.0,10.0,6.0,Finished,2020,7,Race
+GAS,Pierre Gasly,AlphaTauri,8.0,12.0,4.0,Finished,2020,7,Race
+STR,Lance Stroll,Racing Point,9.0,9.0,2.0,Finished,2020,7,Race
+PER,Sergio Perez,Racing Point,10.0,8.0,1.0,Finished,2020,7,Race
+KVY,Daniil Kvyat,AlphaTauri,11.0,11.0,0.0,Finished,2020,7,Race
+RAI,Kimi Räikkönen,Alfa Romeo Racing,12.0,16.0,0.0,Finished,2020,7,Race
+VET,Sebastian Vettel,Ferrari,13.0,14.0,0.0,Finished,2020,7,Race
+LEC,Charles Leclerc,Ferrari,14.0,13.0,0.0,Finished,2020,7,Race
+GRO,Romain Grosjean,Haas F1 Team,15.0,17.0,0.0,Finished,2020,7,Race
+LAT,Nicholas Latifi,Williams,16.0,19.0,0.0,Finished,2020,7,Race
+MAG,Kevin Magnussen,Haas F1 Team,17.0,20.0,0.0,Finished,2020,7,Race
+GIO,Antonio Giovinazzi,Alfa Romeo Racing,18.0,18.0,0.0,Accident,2020,7,Race
+RUS,George Russell,Williams,19.0,15.0,0.0,Debris,2020,7,Race
+SAI,Carlos Sainz,McLaren,20.0,7.0,0.0,Exhaust,2020,7,Race

@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,14.0,26.0,Finished,2022,14,Race
+PER,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,2022,14,Race
+SAI,Carlos Sainz,Ferrari,3.0,1.0,15.0,Finished,2022,14,Race
+RUS,George Russell,Mercedes,4.0,5.0,12.0,Finished,2022,14,Race
+ALO,Fernando Alonso,Alpine,5.0,3.0,10.0,Finished,2022,14,Race
+LEC,Charles Leclerc,Ferrari,6.0,15.0,8.0,Finished,2022,14,Race
+OCO,Esteban Ocon,Alpine,7.0,16.0,6.0,Finished,2022,14,Race
+VET,Sebastian Vettel,Aston Martin,8.0,10.0,4.0,Finished,2022,14,Race
+GAS,Pierre Gasly,AlphaTauri,9.0,0.0,2.0,Finished,2022,14,Race
+ALB,Alexander Albon,Williams,10.0,6.0,1.0,Finished,2022,14,Race
+STR,Lance Stroll,Aston Martin,11.0,9.0,0.0,Finished,2022,14,Race
+NOR,Lando Norris,McLaren,12.0,17.0,0.0,Finished,2022,14,Race
+TSU,Yuki Tsunoda,AlphaTauri,13.0,0.0,0.0,Finished,2022,14,Race
+ZHO,Guanyu Zhou,Alfa Romeo,14.0,18.0,0.0,Finished,2022,14,Race
+RIC,Daniel Ricciardo,McLaren,15.0,7.0,0.0,Finished,2022,14,Race
+MAG,Kevin Magnussen,Haas F1 Team,16.0,12.0,0.0,+1 Lap,2022,14,Race
+MSC,Mick Schumacher,Haas F1 Team,17.0,19.0,0.0,+1 Lap,2022,14,Race
+LAT,Nicholas Latifi,Williams,18.0,11.0,0.0,+1 Lap,2022,14,Race
+BOT,Valtteri Bottas,Alfa Romeo,19.0,13.0,0.0,Accident,2022,14,Race
+HAM,Lewis Hamilton,Mercedes,20.0,4.0,0.0,Collision damage,2022,14,Race

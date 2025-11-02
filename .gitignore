@@ -23,7 +23,7 @@ venv/
 env/
 backend/data_backup/
 
-
+# IDE/Other
 .vscode/
 .idea/
 .DS_Store
@@ -31,3 +31,6 @@ Thumbs.db
 *.log
 netlify.toml
 .env
+
+# Force include key files (add more if needed)
+!app.py

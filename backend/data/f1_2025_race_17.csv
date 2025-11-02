@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,2025,17,Race
+RUS,George Russell,Mercedes,2.0,5.0,18.0,Finished,2025,17,Race
+SAI,Carlos Sainz,Williams,3.0,2.0,15.0,Finished,2025,17,Race
+ANT,Kimi Antonelli,Mercedes,4.0,4.0,12.0,Finished,2025,17,Race
+LAW,Liam Lawson,Racing Bulls,5.0,3.0,10.0,Finished,2025,17,Race
+TSU,Yuki Tsunoda,Red Bull Racing,6.0,6.0,8.0,Finished,2025,17,Race
+NOR,Lando Norris,McLaren,7.0,7.0,6.0,Finished,2025,17,Race
+HAM,Lewis Hamilton,Ferrari,8.0,12.0,4.0,Finished,2025,17,Race
+LEC,Charles Leclerc,Ferrari,9.0,10.0,2.0,Finished,2025,17,Race
+HAD,Isack Hadjar,Racing Bulls,10.0,8.0,1.0,Finished,2025,17,Race
+BOR,Gabriel Bortoleto,Kick Sauber,11.0,13.0,0.0,Finished,2025,17,Race
+BEA,Oliver Bearman,Haas F1 Team,12.0,15.0,0.0,Finished,2025,17,Race
+ALB,Alexander Albon,Williams,13.0,19.0,0.0,Finished,2025,17,Race
+OCO,Esteban Ocon,Haas F1 Team,14.0,20.0,0.0,Finished,2025,17,Race
+ALO,Fernando Alonso,Aston Martin,15.0,11.0,0.0,Finished,2025,17,Race
+HUL,Nico Hulkenberg,Kick Sauber,16.0,17.0,0.0,Finished,2025,17,Race
+STR,Lance Stroll,Aston Martin,17.0,14.0,0.0,Finished,2025,17,Race
+GAS,Pierre Gasly,Alpine,18.0,18.0,0.0,Lapped,2025,17,Race
+COL,Franco Colapinto,Alpine,19.0,16.0,0.0,Lapped,2025,17,Race
+PIA,Oscar Piastri,McLaren,20.0,9.0,0.0,Retired,2025,17,Race

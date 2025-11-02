@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+RUS,George Russell,Mercedes,1.0,1.0,26.0,Finished,2022,21,Race
+HAM,Lewis Hamilton,Mercedes,2.0,2.0,18.0,Finished,2022,21,Race
+SAI,Carlos Sainz,Ferrari,3.0,7.0,15.0,Finished,2022,21,Race
+LEC,Charles Leclerc,Ferrari,4.0,5.0,12.0,Finished,2022,21,Race
+ALO,Fernando Alonso,Alpine,5.0,17.0,10.0,Finished,2022,21,Race
+VER,Max Verstappen,Red Bull Racing,6.0,3.0,8.0,Finished,2022,21,Race
+PER,Sergio Perez,Red Bull Racing,7.0,4.0,6.0,Finished,2022,21,Race
+OCO,Esteban Ocon,Alpine,8.0,16.0,4.0,Finished,2022,21,Race
+BOT,Valtteri Bottas,Alfa Romeo,9.0,14.0,2.0,Finished,2022,21,Race
+STR,Lance Stroll,Aston Martin,10.0,15.0,1.0,Finished,2022,21,Race
+VET,Sebastian Vettel,Aston Martin,11.0,9.0,0.0,Finished,2022,21,Race
+ZHO,Guanyu Zhou,Alfa Romeo,12.0,13.0,0.0,Finished,2022,21,Race
+MSC,Mick Schumacher,Haas F1 Team,13.0,12.0,0.0,Finished,2022,21,Race
+GAS,Pierre Gasly,AlphaTauri,14.0,10.0,0.0,Finished,2022,21,Race
+ALB,Alexander Albon,Williams,15.0,19.0,0.0,Finished,2022,21,Race
+LAT,Nicholas Latifi,Williams,16.0,18.0,0.0,Finished,2022,21,Race
+TSU,Yuki Tsunoda,AlphaTauri,17.0,0.0,0.0,+1 Lap,2022,21,Race
+NOR,Lando Norris,McLaren,18.0,6.0,0.0,Gearbox,2022,21,Race
+MAG,Kevin Magnussen,Haas F1 Team,19.0,8.0,0.0,Collision,2022,21,Race
+RIC,Daniel Ricciardo,McLaren,20.0,11.0,0.0,Collision,2022,21,Race

@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,2.0,25.0,Finished,2023,14,Race
+PER,Sergio Perez,Red Bull Racing,2.0,5.0,18.0,Finished,2023,14,Race
+SAI,Carlos Sainz,Ferrari,3.0,1.0,15.0,Finished,2023,14,Race
+LEC,Charles Leclerc,Ferrari,4.0,3.0,12.0,Finished,2023,14,Race
+RUS,George Russell,Mercedes,5.0,4.0,10.0,Finished,2023,14,Race
+HAM,Lewis Hamilton,Mercedes,6.0,8.0,8.0,Finished,2023,14,Race
+ALB,Alexander Albon,Williams,7.0,6.0,6.0,Finished,2023,14,Race
+NOR,Lando Norris,McLaren,8.0,9.0,4.0,Finished,2023,14,Race
+ALO,Fernando Alonso,Aston Martin,9.0,10.0,2.0,Finished,2023,14,Race
+BOT,Valtteri Bottas,Alfa Romeo,10.0,14.0,1.0,Finished,2023,14,Race
+LAW,Liam Lawson,AlphaTauri,11.0,12.0,0.0,Finished,2023,14,Race
+PIA,Oscar Piastri,McLaren,12.0,7.0,0.0,Finished,2023,14,Race
+SAR,Logan Sargeant,Williams,13.0,15.0,0.0,Finished,2023,14,Race
+ZHO,Guanyu Zhou,Alfa Romeo,14.0,16.0,0.0,Finished,2023,14,Race
+GAS,Pierre Gasly,Alpine,15.0,17.0,0.0,Finished,2023,14,Race
+STR,Lance Stroll,Aston Martin,16.0,20.0,0.0,Finished,2023,14,Race
+HUL,Nico Hulkenberg,Haas F1 Team,17.0,13.0,0.0,Lapped,2023,14,Race
+MAG,Kevin Magnussen,Haas F1 Team,18.0,19.0,0.0,Lapped,2023,14,Race
+OCO,Esteban Ocon,Alpine,19.0,18.0,0.0,Retired,2023,14,Race
+TSU,Yuki Tsunoda,AlphaTauri,20.0,11.0,0.0,Did not start,2023,14,Race

@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,2022,18,Race
+PER,Sergio Perez,Red Bull Racing,2.0,4.0,18.0,Finished,2022,18,Race
+LEC,Charles Leclerc,Ferrari,3.0,2.0,15.0,Finished,2022,18,Race
+OCO,Esteban Ocon,Alpine,4.0,5.0,12.0,Finished,2022,18,Race
+HAM,Lewis Hamilton,Mercedes,5.0,6.0,10.0,Finished,2022,18,Race
+VET,Sebastian Vettel,Aston Martin,6.0,9.0,8.0,Finished,2022,18,Race
+ALO,Fernando Alonso,Alpine,7.0,7.0,6.0,Finished,2022,18,Race
+RUS,George Russell,Mercedes,8.0,8.0,4.0,Finished,2022,18,Race
+LAT,Nicholas Latifi,Williams,9.0,20.0,2.0,Finished,2022,18,Race
+NOR,Lando Norris,McLaren,10.0,10.0,1.0,Finished,2022,18,Race
+RIC,Daniel Ricciardo,McLaren,11.0,11.0,0.0,Finished,2022,18,Race
+STR,Lance Stroll,Aston Martin,12.0,19.0,0.0,Finished,2022,18,Race
+TSU,Yuki Tsunoda,AlphaTauri,13.0,13.0,0.0,Finished,2022,18,Race
+MAG,Kevin Magnussen,Haas F1 Team,14.0,18.0,0.0,Finished,2022,18,Race
+BOT,Valtteri Bottas,Alfa Romeo,15.0,12.0,0.0,Finished,2022,18,Race
+ZHO,Guanyu Zhou,Alfa Romeo,16.0,14.0,0.0,Finished,2022,18,Race
+MSC,Mick Schumacher,Haas F1 Team,17.0,15.0,0.0,Finished,2022,18,Race
+GAS,Pierre Gasly,AlphaTauri,18.0,17.0,0.0,Finished,2022,18,Race
+SAI,Carlos Sainz,Ferrari,19.0,3.0,0.0,Accident,2022,18,Race
+ALB,Alexander Albon,Williams,20.0,16.0,0.0,Hydraulics,2022,18,Race

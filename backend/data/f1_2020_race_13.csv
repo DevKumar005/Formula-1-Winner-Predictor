@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+HAM,Lewis Hamilton,Mercedes,1.0,2.0,26.0,Finished,2020,13,Race
+BOT,Valtteri Bottas,Mercedes,2.0,1.0,18.0,Finished,2020,13,Race
+RIC,Daniel Ricciardo,Renault,3.0,5.0,15.0,Finished,2020,13,Race
+KVY,Daniil Kvyat,AlphaTauri,4.0,8.0,12.0,Finished,2020,13,Race
+LEC,Charles Leclerc,Ferrari,5.0,7.0,10.0,Finished,2020,13,Race
+PER,Sergio Perez,Racing Point,6.0,11.0,8.0,Finished,2020,13,Race
+SAI,Carlos Sainz,McLaren,7.0,10.0,6.0,Finished,2020,13,Race
+NOR,Lando Norris,McLaren,8.0,9.0,4.0,Finished,2020,13,Race
+RAI,Kimi Räikkönen,Alfa Romeo Racing,9.0,18.0,2.0,Finished,2020,13,Race
+GIO,Antonio Giovinazzi,Alfa Romeo Racing,10.0,20.0,1.0,Finished,2020,13,Race
+LAT,Nicholas Latifi,Williams,11.0,19.0,0.0,Finished,2020,13,Race
+VET,Sebastian Vettel,Ferrari,12.0,14.0,0.0,Finished,2020,13,Race
+STR,Lance Stroll,Racing Point,13.0,15.0,0.0,Finished,2020,13,Race
+GRO,Romain Grosjean,Haas F1 Team,14.0,16.0,0.0,Finished,2020,13,Race
+ALB,Alexander Albon,Red Bull Racing,15.0,6.0,0.0,Finished,2020,13,Race
+RUS,George Russell,Williams,16.0,13.0,0.0,Accident,2020,13,Race
+VER,Max Verstappen,Red Bull Racing,17.0,3.0,0.0,Puncture,2020,13,Race
+MAG,Kevin Magnussen,Haas F1 Team,18.0,17.0,0.0,Illness,2020,13,Race
+OCO,Esteban Ocon,Renault,19.0,12.0,0.0,Gearbox,2020,13,Race
+GAS,Pierre Gasly,AlphaTauri,20.0,4.0,0.0,Water pressure,2020,13,Race

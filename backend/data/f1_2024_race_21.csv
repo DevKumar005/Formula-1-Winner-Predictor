@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,17.0,26.0,Finished,2024,21,Race
+OCO,Esteban Ocon,Alpine,2.0,4.0,18.0,Finished,2024,21,Race
+GAS,Pierre Gasly,Alpine,3.0,13.0,15.0,Finished,2024,21,Race
+RUS,George Russell,Mercedes,4.0,2.0,12.0,Finished,2024,21,Race
+LEC,Charles Leclerc,Ferrari,5.0,6.0,10.0,Finished,2024,21,Race
+NOR,Lando Norris,McLaren,6.0,1.0,8.0,Finished,2024,21,Race
+TSU,Yuki Tsunoda,RB,7.0,3.0,6.0,Finished,2024,21,Race
+PIA,Oscar Piastri,McLaren,8.0,8.0,4.0,Finished,2024,21,Race
+LAW,Liam Lawson,RB,9.0,5.0,2.0,Finished,2024,21,Race
+HAM,Lewis Hamilton,Mercedes,10.0,14.0,1.0,Finished,2024,21,Race
+PER,Sergio Perez,Red Bull Racing,11.0,12.0,0.0,Finished,2024,21,Race
+BEA,Oliver Bearman,Haas F1 Team,12.0,15.0,0.0,Finished,2024,21,Race
+BOT,Valtteri Bottas,Kick Sauber,13.0,11.0,0.0,Finished,2024,21,Race
+ALO,Fernando Alonso,Aston Martin,14.0,9.0,0.0,Finished,2024,21,Race
+ZHO,Guanyu Zhou,Kick Sauber,15.0,19.0,0.0,Finished,2024,21,Race
+SAI,Carlos Sainz,Ferrari,16.0,20.0,0.0,Retired,2024,21,Race
+COL,Franco Colapinto,Williams,17.0,16.0,0.0,Retired,2024,21,Race
+ALB,Alexander Albon,Williams,18.0,7.0,0.0,Did not start,2024,21,Race
+STR,Lance Stroll,Aston Martin,19.0,10.0,0.0,Did not start,2024,21,Race
+HUL,Nico Hulkenberg,Haas F1 Team,20.0,18.0,0.0,Disqualified,2024,21,Race

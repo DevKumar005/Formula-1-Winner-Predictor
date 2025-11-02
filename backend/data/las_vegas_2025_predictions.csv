@@ -1,0 +1,11 @@
+FullName,GridPosition,driver_recent_form,driver_win_percentage,driver_podium_rate,team_win_percentage,driver_dnf_rate,driver_races_competed,win_probability
+Max Verstappen,1,2.0,25.0,55.00000000000001,12.5,5.0,40,0.9660985213743871
+Lando Norris,3,1.8,30.0,80.0,32.5,10.0,40,0.698356333017624
+Oscar Piastri,7,4.8,35.0,70.0,32.5,5.0,40,0.4497139911176676
+Lewis Hamilton,2,6.4,0.0,0.0,5.0,15.0,40,0.2290157949908977
+Charles Leclerc,4,3.2,0.0,35.0,0.0,10.0,40,0.17301835708563376
+George Russell,6,5.4,10.0,40.0,0.0,5.0,40,0.10565836086146119
+Sergio Perez,8,999.0,0.0,0.0,0.0,0.0,0,0.024064545245813952
+Carlos Sainz,5,16.8,0.0,5.0,32.5,45.0,40,0.015154536700251704
+Fernando Alonso,9,12.6,0.0,0.0,0.0,35.0,40,0.0
+Nico Hulkenberg,10,14.8,0.0,5.0,0.0,50.0,40,0.0

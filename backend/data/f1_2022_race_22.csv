@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,2022,22,Race
+LEC,Charles Leclerc,Ferrari,2.0,3.0,18.0,Finished,2022,22,Race
+PER,Sergio Perez,Red Bull Racing,3.0,2.0,15.0,Finished,2022,22,Race
+SAI,Carlos Sainz,Ferrari,4.0,4.0,12.0,Finished,2022,22,Race
+RUS,George Russell,Mercedes,5.0,6.0,10.0,Finished,2022,22,Race
+NOR,Lando Norris,McLaren,6.0,7.0,9.0,Finished,2022,22,Race
+OCO,Esteban Ocon,Alpine,7.0,8.0,6.0,Finished,2022,22,Race
+STR,Lance Stroll,Aston Martin,8.0,14.0,4.0,Finished,2022,22,Race
+RIC,Daniel Ricciardo,McLaren,9.0,13.0,2.0,Finished,2022,22,Race
+VET,Sebastian Vettel,Aston Martin,10.0,9.0,1.0,Finished,2022,22,Race
+TSU,Yuki Tsunoda,AlphaTauri,11.0,11.0,0.0,Finished,2022,22,Race
+ZHO,Guanyu Zhou,Alfa Romeo,12.0,15.0,0.0,+1 Lap,2022,22,Race
+ALB,Alexander Albon,Williams,13.0,19.0,0.0,+1 Lap,2022,22,Race
+GAS,Pierre Gasly,AlphaTauri,14.0,17.0,0.0,+1 Lap,2022,22,Race
+BOT,Valtteri Bottas,Alfa Romeo,15.0,18.0,0.0,+1 Lap,2022,22,Race
+MSC,Mick Schumacher,Haas F1 Team,16.0,12.0,0.0,+1 Lap,2022,22,Race
+MAG,Kevin Magnussen,Haas F1 Team,17.0,16.0,0.0,+1 Lap,2022,22,Race
+HAM,Lewis Hamilton,Mercedes,18.0,5.0,0.0,Hydraulics,2022,22,Race
+LAT,Nicholas Latifi,Williams,19.0,20.0,0.0,Collision damage,2022,22,Race
+ALO,Fernando Alonso,Alpine,20.0,10.0,0.0,Water leak,2022,22,Race

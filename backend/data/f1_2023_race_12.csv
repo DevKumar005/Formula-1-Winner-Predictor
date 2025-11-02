@@ -1,0 +1,21 @@
+Abbreviation,FullName,TeamName,Position,GridPosition,Points,Status,Season,Round,RaceName
+VER,Max Verstappen,Red Bull Racing,1.0,6.0,25.0,Finished,2023,12,Race
+PER,Sergio Perez,Red Bull Racing,2.0,2.0,18.0,Finished,2023,12,Race
+LEC,Charles Leclerc,Ferrari,3.0,1.0,15.0,Finished,2023,12,Race
+HAM,Lewis Hamilton,Mercedes,4.0,3.0,13.0,Finished,2023,12,Race
+ALO,Fernando Alonso,Aston Martin,5.0,9.0,10.0,Finished,2023,12,Race
+RUS,George Russell,Mercedes,6.0,8.0,8.0,Finished,2023,12,Race
+NOR,Lando Norris,McLaren,7.0,7.0,6.0,Finished,2023,12,Race
+OCO,Esteban Ocon,Alpine,8.0,14.0,4.0,Finished,2023,12,Race
+STR,Lance Stroll,Aston Martin,9.0,10.0,2.0,Finished,2023,12,Race
+TSU,Yuki Tsunoda,AlphaTauri,10.0,11.0,1.0,Finished,2023,12,Race
+GAS,Pierre Gasly,Alpine,11.0,12.0,0.0,Finished,2023,12,Race
+BOT,Valtteri Bottas,Alfa Romeo,12.0,13.0,0.0,Finished,2023,12,Race
+ZHO,Guanyu Zhou,Alfa Romeo,13.0,17.0,0.0,Finished,2023,12,Race
+ALB,Alexander Albon,Williams,14.0,15.0,0.0,Finished,2023,12,Race
+MAG,Kevin Magnussen,Haas F1 Team,15.0,16.0,0.0,Finished,2023,12,Race
+RIC,Daniel Ricciardo,AlphaTauri,16.0,19.0,0.0,Finished,2023,12,Race
+SAR,Logan Sargeant,Williams,17.0,18.0,0.0,Finished,2023,12,Race
+HUL,Nico Hulkenberg,Haas F1 Team,18.0,20.0,0.0,Finished,2023,12,Race
+SAI,Carlos Sainz,Ferrari,19.0,4.0,0.0,Retired,2023,12,Race
+PIA,Oscar Piastri,McLaren,20.0,5.0,0.0,Retired,2023,12,Race
