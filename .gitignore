@@ -1,0 +1,33 @@
+# Flutter
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/coverage/
+frontend/lib/generated_plugin_registrant.dart
+frontend/.flutter-*
+frontend/.idea/
+frontend/.vscode/
+frontend/f1predictorapp.iml
+
+# Python
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+backend/data_backup/
+
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+netlify.toml
+.env
