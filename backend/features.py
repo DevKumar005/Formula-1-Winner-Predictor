@@ -6,7 +6,7 @@ from datetime import datetime
 df = pd.read_csv("data/f1_all_races_combined.csv")
 
 print("\n" + "="*70)
-print("STEP 2: FEATURE ENGINEERING")
+print("FEATURE")
 print("="*70)
 
 # Make a copy to work with
