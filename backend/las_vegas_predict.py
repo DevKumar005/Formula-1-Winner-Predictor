@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 print("\n" + "="*70)
-print("STEP 8: GENERALIZED LAS VEGAS 2025 WINNER PREDICTION")
+print("GENERALIZED LAS VEGAS 2025 WINNER PREDICTION")
 print("="*70)
 
 # Load cleaned data (race results 2020-2025)
