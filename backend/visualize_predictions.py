@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 print("\n" + "="*70)
-print("STEP 9: VISUALIZE LAS VEGAS 2025 PREDICTIONS")
+print("VISUALIZE LAS VEGAS 2025 PREDICTIONS")
 print("="*70)
 
 # Load the predictions
