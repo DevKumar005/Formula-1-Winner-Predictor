@@ -5,7 +5,7 @@ import numpy as np
 df = pd.read_csv("data/f1_features_engineered.csv")
 
 print("\n" + "="*70)
-print("STEP 3: DATA CLEANING")
+print("DATA CLEANING")
 print("="*70)
 
 print("\nBefore cleaning:")
