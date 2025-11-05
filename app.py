@@ -3,7 +3,6 @@ import pandas as pd
 from flask_cors import CORS
 CORS(app)
 
-
 app = Flask(__name__)
 CORS(app)
 def get_model_predictions():
