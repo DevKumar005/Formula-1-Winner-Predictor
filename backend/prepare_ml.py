@@ -133,7 +133,7 @@ with open("data/scaler.pkl", "wb") as f:
 
 print("✓ Saved scaler.pkl (for scaling new predictions)")
 
-# Also save feature list
+# Save feature list
 with open("data/feature_columns.pkl", "wb") as f:
     pickle.dump(feature_columns, f)
 
