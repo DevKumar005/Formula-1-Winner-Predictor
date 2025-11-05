@@ -5,7 +5,7 @@ import numpy as np
 df = pd.read_csv("data/f1_all_races_combined.csv")
 
 print("\n" + "="*70)
-print("STEP 1: INSPECT RAW DATA")
+print("INSPECT RAW DATA")
 print("="*70)
 
 # Show structure
