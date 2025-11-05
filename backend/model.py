@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import pickle
 
 print("\n" + "="*70)
-print("STEP 6: ADVANCED MODEL - RANDOM FOREST ONLY")
+print("ADVANCED MODEL - RANDOM FOREST ONLY")
 print("="*70)
 
 # Load prepared data
