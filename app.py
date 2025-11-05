@@ -6,10 +6,7 @@ CORS(app)
 
 app = Flask(__name__)
 CORS(app)
-
-# Replace with your prediction code
 def get_model_predictions():
-    # Run your model and return a DataFrame or list of dictionaries
     df = pd.read_csv("data/las_vegas_2025_predictions.csv")
     return df[["FullName", "win_probability"]].rename(
         columns={"FullName": "name", "win_probability": "probability"}
@@ -23,7 +20,6 @@ def api_predictions():
 @app.route('/api/drivers')
 def api_drivers():
     df = pd.read_csv("data/drivers.csv")
-    # drivers.csv must have: name, team, points, podiums, profile_img columns
     return jsonify(df.to_dict(orient="records"))
 
 @app.route('/api/race-info')
