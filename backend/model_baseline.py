@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import pickle
 
 print("\n" + "="*70)
-print("STEP 5: BASELINE MODEL - LOGISTIC REGRESSION")
+print("BASELINE MODEL - LOGISTIC REGRESSION")
 print("="*70)
 
 # Load prepared data
