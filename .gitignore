@@ -32,5 +32,5 @@ Thumbs.db
 netlify.toml
 .env
 
-# Force include key files (add more if needed)
+# Force include key files
 !app.py
