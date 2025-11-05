@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pickle
 
 print("\n" + "="*70)
-print("STEP 7: MODEL COMPARISON VISUALIZATION")
+print("MODEL COMPARISON VISUALIZATION")
 print("="*70)
 
 # Load all metrics
