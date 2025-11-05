@@ -1,4 +1,3 @@
-# F1 Schedule 2020-2025 (Manual - what actually happened)
 # Format: (Season, Round, Event Name)
 
 F1_SCHEDULE = [
