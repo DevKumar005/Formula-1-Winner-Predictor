@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 import pickle
 
 print("\n" + "="*70)
-print("STEP 4: PREPARE DATA FOR MACHINE LEARNING")
+print("PREPARE DATA FOR MACHINE LEARNING")
 print("="*70)
 
 # Load cleaned data
