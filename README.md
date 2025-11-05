@@ -60,7 +60,7 @@ Predicting the winner of the LAS VEGAS F1 Grand Prix using real-world data and m
 | 3        | Max Verstappen   | 57.0           |
 | ...      | ...              | ...            |
 
-> *See website for live, interactive predictions and data visualizations.*
+> *See website for Live, interactive predictions and data visualizations.*
 
 ---
 
