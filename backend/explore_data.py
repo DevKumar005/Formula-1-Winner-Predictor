@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the combined dataset
-df = pd.read_csv("data/f1_all_races_combined.csv")
+df = pd.read_csv("backend/data/f1_all_races_combined.csv")
 
 print("\n" + "="*70)
 print("F1 DATASET OVERVIEW (2020-2025)")
