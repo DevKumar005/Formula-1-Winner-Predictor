@@ -42,7 +42,7 @@ for (i, j), metric in zip(positions, metrics_to_plot):
 axes[1, 2].remove()
 
 plt.tight_layout()
-plt.savefig('src/model_comparison.png', dpi=150, bbox_inches='tight')
+plt.savefig('backend/model_comparison.png', dpi=150, bbox_inches='tight')
 print("\n✓ Saved model comparison chart: model_comparison.png")
 plt.close()
 
