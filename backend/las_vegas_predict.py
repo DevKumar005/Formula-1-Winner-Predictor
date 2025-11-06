@@ -7,7 +7,7 @@ print("GENERALIZED LAS VEGAS 2025 WINNER PREDICTION")
 print("="*70)
 
 # Load cleaned data (race results 2020-2025)
-df_all = pd.read_csv("data/f1_data_cleaned.csv")
+df_all = pd.read_csv("backend/data/f1_data_cleaned.csv")
 
 # Identify all drivers who raced in 2025
 drivers_2025 = df_all[df_all['Season'] == 2025]['FullName'].unique()
@@ -117,11 +117,11 @@ df_features = pd.DataFrame(feature_rows)
 print(f"\nPrepared features for {len(df_features)} drivers for Las Vegas GP 2025.")
 
 # Load scaler, model, and feature columns used during training
-with open("data/scaler.pkl", "rb") as f:
+with open("backend/data/scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
-with open("data/random_forest_model.pkl", "rb") as f:
+with open("backend/data/random_forest_model.pkl", "rb") as f:
     rf_model = pickle.load(f)
-with open("data/feature_columns.pkl", "rb") as f:
+with open("backend/data/feature_columns.pkl", "rb") as f:
     feature_columns = pickle.load(f)
 
 # Add new track-specific features to the dataframe
@@ -149,5 +149,5 @@ print("\nPotential Dark Horse Drivers (win% < 5%, prob > 0.1):")
 print(dark_horses[['FullName', 'driver_win_percentage', 'win_probability']])
 
 # Save result
-df_results.to_csv("data/las_vegas_2025_predictions_general.csv", index=False)
+df_results.to_csv("backend/data/las_vegas_2025_predictions_general.csv", index=False)
 print("\n✓ Saved comprehensive Las Vegas 2025 predictions to data/las_vegas_2025_predictions_general.csv")
