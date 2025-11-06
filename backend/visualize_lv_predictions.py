@@ -29,6 +29,6 @@ for bar in bars:
                  ha='center', va='bottom', fontsize=12)
 
 plt.tight_layout()
-plt.savefig("src/top_lv_drivers_probabilities.png", dpi=150)
-print("✓ Saved bar chart as 'src/top_lv_drivers_probabilities.png'")
+plt.savefig("backend/top_lv_drivers_probabilities.png", dpi=150)
+print("✓ Saved bar chart as 'backend/top_lv_drivers_probabilities.png'")
 plt.show()
