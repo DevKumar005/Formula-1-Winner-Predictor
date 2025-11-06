@@ -5,7 +5,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 def get_model_predictions():
-    df = pd.read_csv("data/las_vegas_2025_predictions.csv")
+    df = pd.read_csv("backend/data/las_vegas_2025_predictions.csv")
     return df[["FullName", "win_probability"]].rename(
         columns={"FullName": "name", "win_probability": "probability"}
     ).to_dict(orient="records")
@@ -17,7 +17,7 @@ def api_predictions():
 
 @app.route('/api/drivers')
 def api_drivers():
-    df = pd.read_csv("data/drivers.csv")
+    df = pd.read_csv("backend/data/drivers.csv")
     return jsonify(df.to_dict(orient="records"))
 
 @app.route('/api/race-info')
