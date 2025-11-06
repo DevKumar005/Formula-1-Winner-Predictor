@@ -129,7 +129,7 @@ class _PredictionsScreenState extends State<PredictionsScreen> {
       _error = null;
     });
     try {
-      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/"),);
+      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/api/predictions/"),);
       if (response.statusCode == 200) {
         final List<dynamic> data = json.decode(response.body);
         setState(() {
@@ -237,7 +237,7 @@ class _DriversScreenState extends State<DriversScreen> {
       _error = null;
     });
     try {
-      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/"),);
+      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/api/drivers/"),);
       if (response.statusCode == 200) {
         final List<dynamic> data = json.decode(response.body);
         setState(() {
@@ -332,7 +332,7 @@ class _RaceInfoScreenState extends State<RaceInfoScreen> {
       _error = null;
     });
     try {
-      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/"),);
+      final response = await http.get(Uri.parse("https://f1-winner-predictor-backend.onrender.com/api/race-info/"),);
       if (response.statusCode == 200) {
         final Map<String, dynamic> data = json.decode(response.body);
         setState(() {
