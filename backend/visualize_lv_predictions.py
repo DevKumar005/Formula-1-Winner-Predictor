@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the predictions CSV
-df = pd.read_csv("data/las_vegas_2025_predictions_general.csv")
+df = pd.read_csv("backend/data/las_vegas_2025_predictions_general.csv")
 
 # Sort by win probability
 df_sorted = df.sort_values('win_probability', ascending=False)
