@@ -8,10 +8,10 @@ print("ADVANCED MODEL - RANDOM FOREST ONLY")
 print("="*70)
 
 # Load prepared data
-X_train = pd.read_csv("data/X_train_scaled.csv")
-X_test = pd.read_csv("data/X_test_scaled.csv")
-y_train = pd.read_csv("data/y_train.csv").squeeze()
-y_test = pd.read_csv("data/y_test.csv").squeeze()
+X_train = pd.read_csv("backend/data/X_train_scaled.csv")
+X_test = pd.read_csv("backend/data/X_test_scaled.csv")
+y_train = pd.read_csv("backend/data/y_train.csv").squeeze()
+y_test = pd.read_csv("backend/data/y_test.csv").squeeze()
 
 print(f"\nLoaded data: X_train {X_train.shape}, X_test {X_test.shape}")
 
@@ -59,11 +59,11 @@ print("\nTop 5 Most Important Features:")
 for idx, row in feature_importance_rf.head(5).iterrows():
     print(f"  {row['Feature']:30s}: {row['Importance']:.4f}")
 
-with open("data/random_forest_model.pkl", "wb") as f:
+with open("backend/data/random_forest_model.pkl", "wb") as f:
     pickle.dump(rf_model, f)
 print("✓ Random Forest saved")
 
-with open("data/all_models_metrics.pkl", "wb") as f:
+with open("backend/data/all_models_metrics.pkl", "wb") as f:
     pickle.dump({'Random Forest': rf_metrics}, f)
 print("✓ Metrics saved")
 
