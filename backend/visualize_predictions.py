@@ -6,7 +6,7 @@ print("VISUALIZE LAS VEGAS 2025 PREDICTIONS")
 print("="*70)
 
 # Load the predictions
-df = pd.read_csv("data/las_vegas_2025_predictions.csv")
+df = pd.read_csv("backend/data//las_vegas_2025_predictions.csv")
 
 # Sort by win probability
 df_sorted = df.sort_values('win_probability', ascending=False).reset_index(drop=True)
@@ -32,7 +32,7 @@ for bar in bars:
                  ha='center', va='bottom', fontsize=12)
 
 plt.tight_layout()
-plt.savefig("src/las_vegas_2025_win_probabilities.png", dpi=150)
-print("✓ Saved prediction bar chart as 'src/las_vegas_2025_win_probabilities.png'")
+plt.savefig("backend/data//las_vegas_2025_win_probabilities.png", dpi=150)
+print("✓ Saved prediction bar chart as 'backend/data//las_vegas_2025_win_probabilities.png'")
 
 plt.show()
