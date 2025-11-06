@@ -20,8 +20,8 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
 # Save the chart
-plt.savefig('src/top_drivers_wins.png', dpi=150, bbox_inches='tight')
-print("✓ Chart saved as 'src/top_drivers_wins.png'")
+plt.savefig('backend//top_drivers_wins.png', dpi=150, bbox_inches='tight')
+print("✓ Chart saved as 'backend//top_drivers_wins.png'")
 plt.close()
 
 # Create Las Vegas specific chart
@@ -39,8 +39,8 @@ if len(vegas) > 0:
     ax.set_xticks(vegas_data.index)
     
     plt.tight_layout()
-    plt.savefig('src/vegas_winners.png', dpi=150, bbox_inches='tight')
-    print("✓ Las Vegas chart saved as 'src/vegas_winners.png'")
+    plt.savefig('backend//vegas_winners.png', dpi=150, bbox_inches='tight')
+    print("✓ Las Vegas chart saved as 'backend//vegas_winners.png'")
     plt.close()
 
 print("\n✓ Visualizations complete!")
