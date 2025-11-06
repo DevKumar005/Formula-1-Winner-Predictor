@@ -32,7 +32,7 @@ for bar in bars:
                  ha='center', va='bottom', fontsize=12)
 
 plt.tight_layout()
-plt.savefig("backend/data//las_vegas_2025_win_probabilities.png", dpi=150)
-print("✓ Saved prediction bar chart as 'backend/data//las_vegas_2025_win_probabilities.png'")
+plt.savefig("backend/las_vegas_2025_win_probabilities.png", dpi=150)
+print("✓ Saved prediction bar chart as 'backend/las_vegas_2025_win_probabilities.png'")
 
 plt.show()
