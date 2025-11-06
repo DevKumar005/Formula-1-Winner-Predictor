@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data
-df = pd.read_csv("data/f1_all_races_combined.csv")
+df = pd.read_csv("backend/data/f1_all_races_combined.csv")
 
 # Get top winners
 winners = df[df['Position'] == 1.0]
