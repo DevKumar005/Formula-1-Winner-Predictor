@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load engineered features
-df = pd.read_csv("data/f1_features_engineered.csv")
+df = pd.read_csv("backend/data/f1_features_engineered.csv")
 
 print("\n" + "="*70)
 print("DATA CLEANING")
@@ -99,7 +99,7 @@ if df.isnull().sum().sum() == 0:
     print("✓ NO MISSING VALUES - Data is clean!")
 
 # Save cleaned data
-output_file = "data/f1_data_cleaned.csv"
+output_file = "backend/data/f1_data_cleaned.csv"
 df.to_csv(output_file, index=False)
 print(f"\n✓ Saved cleaned data to: {output_file}")
 
