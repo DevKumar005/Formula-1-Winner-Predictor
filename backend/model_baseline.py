@@ -9,10 +9,10 @@ print("BASELINE MODEL - LOGISTIC REGRESSION")
 print("="*70)
 
 # Load prepared data
-X_train = pd.read_csv("data/X_train_scaled.csv")
-X_test = pd.read_csv("data/X_test_scaled.csv")
-y_train = pd.read_csv("data/y_train.csv").squeeze()
-y_test = pd.read_csv("data/y_test.csv").squeeze()
+X_train = pd.read_csv("backend/data/X_train_scaled.csv")
+X_test = pd.read_csv("backend/data/X_test_scaled.csv")
+y_train = pd.read_csv("backend/data/y_train.csv").squeeze()
+y_test = pd.read_csv("backend/data/y_test.csv").squeeze()
 
 print(f"\nLoaded training data: {X_train.shape}")
 print(f"Loaded testing data: {X_test.shape}")
@@ -128,7 +128,7 @@ print("\n" + "="*70)
 print("SAVING MODEL")
 print("="*70)
 
-with open("data/logistic_regression_model.pkl", "wb") as f:
+with open("backend/data/logistic_regression_model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 print("✓ Model saved to: logistic_regression_model.pkl")
@@ -143,7 +143,7 @@ metrics = {
     'feature_importance': importance_df.to_dict()
 }
 
-with open("data/baseline_metrics.pkl", "wb") as f:
+with open("backend/data/baseline_metrics.pkl", "wb") as f:
     pickle.dump(metrics, f)
 
 print("✓ Metrics saved to: baseline_metrics.pkl")
