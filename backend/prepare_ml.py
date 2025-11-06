@@ -9,7 +9,7 @@ print("PREPARE DATA FOR MACHINE LEARNING")
 print("="*70)
 
 # Load cleaned data
-df = pd.read_csv("data/f1_data_cleaned.csv")
+df = pd.read_csv("backend/data/f1_data_cleaned.csv")
 
 print(f"\nLoaded data: {len(df)} rows, {len(df.columns)} columns")
 
@@ -116,10 +116,10 @@ print("SAVING PREPARED DATA")
 print("="*70)
 
 # Save as CSV
-X_train_scaled.to_csv("data/X_train_scaled.csv", index=False)
-X_test_scaled.to_csv("data/X_test_scaled.csv", index=False)
-y_train.to_csv("data/y_train.csv", index=False)
-y_test.to_csv("data/y_test.csv", index=False)
+X_train_scaled.to_csv("backend/data/X_train_scaled.csv", index=False)
+X_test_scaled.to_csv("backend/data/X_test_scaled.csv", index=False)
+y_train.to_csv("backend/data/y_train.csv", index=False)
+y_test.to_csv("backend/data/y_test.csv", index=False)
 
 print("✓ Saved training/testing data:")
 print("  - X_train_scaled.csv")
@@ -128,13 +128,13 @@ print("  - y_train.csv")
 print("  - y_test.csv")
 
 # Save scaler object for later use (when making predictions)
-with open("data/scaler.pkl", "wb") as f:
+with open("backend/data/scaler.pkl", "wb") as f:
     pickle.dump(scaler, f)
 
 print("✓ Saved scaler.pkl (for scaling new predictions)")
 
 # Save feature list
-with open("data/feature_columns.pkl", "wb") as f:
+with open("backend/data/feature_columns.pkl", "wb") as f:
     pickle.dump(feature_columns, f)
 
 print("✓ Saved feature_columns.pkl")
