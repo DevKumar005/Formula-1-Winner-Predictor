@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime
 
 # Load combined data
-df = pd.read_csv("data/f1_all_races_combined.csv")
+df = pd.read_csv("backend/data/f1_all_races_combined.csv")
 
 print("\n" + "="*70)
 print("FEATURE")
@@ -156,7 +156,7 @@ for i, feat in enumerate(new_features, 1):
 print(f"\nTotal columns now: {len(df_features.columns)}")
 
 # Save the engineered features
-output_file = "data/f1_features_engineered.csv"
+output_file = "backend/data/f1_features_engineered.csv"
 df_features.to_csv(output_file, index=False)
 print(f"\n✓ Saved engineered features to: {output_file}")
 
