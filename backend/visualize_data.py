@@ -20,8 +20,8 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 
 # Save the chart
-plt.savefig('backend//top_drivers_wins.png', dpi=150, bbox_inches='tight')
-print("✓ Chart saved as 'backend//top_drivers_wins.png'")
+plt.savefig('backend/top_drivers_wins.png', dpi=150, bbox_inches='tight')
+print("✓ Chart saved as 'backend/top_drivers_wins.png'")
 plt.close()
 
 # Create Las Vegas specific chart
