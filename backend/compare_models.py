@@ -7,11 +7,11 @@ print("MODEL COMPARISON VISUALIZATION")
 print("="*70)
 
 # Load all metrics
-with open("data/all_models_metrics.pkl", "rb") as f:
+with open("backend/data/all_models_metrics.pkl", "rb") as f:
     all_metrics = pickle.load(f)
 
 # Add baseline metrics
-with open("data/baseline_metrics.pkl", "rb") as f:
+with open("backend/data/baseline_metrics.pkl", "rb") as f:
     baseline_metrics = pickle.load(f)
 
 all_metrics['Logistic Regression'] = baseline_metrics
