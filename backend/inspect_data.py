@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load combined data
-df = pd.read_csv("data/f1_all_races_combined.csv")
+df = pd.read_csv("backend/data/f1_all_races_combined.csv")
 
 print("\n" + "="*70)
 print("INSPECT RAW DATA")
