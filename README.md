@@ -239,13 +239,7 @@ Visit the deployed application → **[Website Link](https://f1-winner-predictor.
 
 Contributions, ideas, and feedback are welcome!
 
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/better-model`)
-3. Commit your changes (`git commit -m 'Add XGBoost with Bayesian hyperparameter tuning'`)
-4. Push to the branch (`git push origin feature/better-model`)
-5. Open a Pull Request
-
-Please open an issue first for major changes so we can discuss the approach.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
 
 ---
 
